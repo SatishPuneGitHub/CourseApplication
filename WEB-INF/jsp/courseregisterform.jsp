@@ -2,7 +2,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>  
 
 		<h1>Register Course</h1>
-       <form:form method="POST" action="/CourseApplication/registersave">  
+       <form:form method="POST" action="/CourseApplication/registersave"> 
       	<table >  
       	<tr>
       	<td></td>  
